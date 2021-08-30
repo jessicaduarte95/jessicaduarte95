@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje trabalho com Front-end ;
-- 🌱 Estudando HTML CSS e Javascript;
-- 📫 Contate-me no e-mail: jessicaduarte.95@gmail.com.
+- 🌱 Estudando HTML, CSS e Javascript;
+- 📫 Contate-me no e-mail: jessicaduarte.95@gmail.com;
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas;
 - 🎓 Sou formada em química (Bacharel) pela Universidade de Brasília.
 
