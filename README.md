@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jéssica Duarte
 
 
-- 🔭 Hoje trabalho com Front-end ;
+- 🔭 Hoje trabalho com Full Stack;
 - 🌱 Estudando HTML, CSS e Javascript;
 - 📫 Contate-me no e-mail: jessicaduarte.95@gmail.com;
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas;
