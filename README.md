@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jéssica Duarte
 
 
-- 🌱 HTML, CSS, Javascript e Python;
+- 🌱 HTML, CSS, Javascript, Node.js, MySQL e Python;
 - 📫 Contate-me no e-mail: jessicaduarte.95@gmail.com;
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas;
 - 🎓 Sou formada em química (Bacharel) pela Universidade de Brasília.
