@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jéssica Duarte
 
 
-- 🌱 Java, SQL, Javascript, React.js, Node.js e MySQL;
+- 🌱 Javascript, React.js, Node.js, Java, SQL e MySQL;
 - 📫 Contate-me no e-mail: jessicaduarte.95@gmail.com;
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas;
 - 🎓 Sou formada em química (Bacharel) pela Universidade de Brasília.
