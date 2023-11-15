@@ -4,7 +4,7 @@
 - 🌱 Javascript, React.js, Node.js, Java, SQL e MySQL;
 - 👩‍💻 Desenvolvedora Full Stack;
 - 📫 Contate-me no e-mail: jessicaduarte.95@gmail.com;
-- 📚 Sou formada em Desenvolvimento de Sistemas;
+- 📚 Sou formada em Análise e Desenvolvimento de Sistemas;
 - 🎓 Sou formada em química (Bacharel) pela Universidade de Brasília.
 
  <div>
