@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jéssica Duarte
 
 
-- 🌱 React.js, Node.js, Java, Vue.js e SQL;
+- 🌱 React.js, Node.js, Nest.js, Vue.js;
 - 👩‍💻 Desenvolvedora Full Stack;
 - 📫 Contate-me no e-mail: jessicaduarte.95@gmail.com;
 - 📚 Sou formada em Análise e Desenvolvimento de Sistemas.
